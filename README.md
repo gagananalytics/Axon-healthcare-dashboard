@@ -52,3 +52,7 @@ This project transforms healthcare data into meaningful insights through interac
 **Domain:** Healthcare Analytics
 
 **Tools:** MySQL | MS Excel | Tableau | Power BI
+
+
+ 1. Axon Healthcare Excel Dashboard
+![Excel Dashboard](https://github.com/gagananalytics/Axon-healthcare-dashboard/blob/main/Screenshot%20Axon%20Healthcare%20Dashboard.png)
